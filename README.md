@@ -1,5 +1,5 @@
 # Libft - @42Born2Code
-<img src="https://github.com/maminparen/libft_42/master/Libft.png" />
+<img src="https://github.com/maminparen/libft_42/blob/main/Libft.png" />
 
 ### TOC
 * [What is libft?](#what-is-libft)
